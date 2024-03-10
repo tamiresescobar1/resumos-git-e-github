@@ -11,7 +11,7 @@ Repositório para armazenar resumos sobre Git e GitHub
 
 | Comando | Descrição |
 |------|--------|
-|ls | mostra todos arquivos e pastas (ls -l)|
+|ls | Mostra todos arquivos e pastas (ls -l)|
 |git commit -m"contaúdo da mensagem de commit" | Gravação de arquivo no git. Esse comando serve para commitar os arquivos no git. O "-m" é referete ao termo "mensseger". Ou seja, mensagem que será gravada no commit |
 |ctrl + l ou clear | É o comando que limpa a tela do terminal do git|
 |git log | Comando para visualizar os logs dos arquivos gravados no repositório|
